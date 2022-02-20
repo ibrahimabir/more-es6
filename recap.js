@@ -1,0 +1,1 @@
+const hubby = 'Akbor the great';
