@@ -10,7 +10,7 @@ const products = [
     { name: 'Earphone', price: 300, color: 'Black' },
     { name: 'Stickey Notes', price: 50, color: 'Blue' },
     { name: 'Water Glass', price: 10, color: 'white' }
-]
+];
 
 const pName = products.map(product => product.name);
 const pPrice = products.map(product => product.price);
